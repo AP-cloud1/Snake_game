@@ -26,11 +26,11 @@ Follow these steps to set up and run the Snake Game project locally:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT.git
+    git clone https://github.com/AP-cloud1/Snake_game.git
     ```
 2. **Navigate to the Project Directory**:
     ```bash
-    cd Games/3-snake_game
+    cd Snake_game
     ```
 3. **Open the Index File**:
     - Open `index.html` in your preferred web browser to start the game.
@@ -50,7 +50,7 @@ To contribute to this project, follow these steps:
     git clone https://github.com/yourusername/AP-cloud1.git
     ```
      ```bash
-    cd Games/3-snake_game
+    cd Snake_game
     ```
 3. **Create a Branch**:
     ```bash
