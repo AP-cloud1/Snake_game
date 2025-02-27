@@ -8,6 +8,9 @@ Author- AYUSH PUNDIR
 
 The Snake Game is a classic arcade game where the player maneuvers a snake to collect food items. Each time the snake eats a piece of food, it grows longer, making the game progressively more challenging. The game ends when the snake runs into itself or the walls.
 
+
+## live link - https://ap-cloud1.github.io/Snake_game/
+ 
 ## Features
 
 - **Simple Controls**: Navigate the snake using arrow keys.
